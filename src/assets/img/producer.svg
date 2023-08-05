@@ -1,0 +1,8567 @@
+/* Ellipse 1 */
+
+position: absolute;
+width: 136px;
+height: 136px;
+
+background: #287A68;
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 27.3%;
+top: 25.93%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 27.3%;
+top: 25.93%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.66%;
+right: 29.19%;
+top: 61.14%;
+bottom: 13.86%;
+
+opacity: 0.2;
+
+
+/* Group */
+
+position: absolute;
+left: 46.78%;
+right: 29.19%;
+top: 61.14%;
+bottom: 13.86%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.78%;
+right: 29.19%;
+top: 61.14%;
+bottom: 13.86%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 46.66%;
+right: 51.63%;
+top: 70.92%;
+bottom: 26.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.66%;
+right: 51.63%;
+top: 70.92%;
+bottom: 26.33%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 69.88%;
+right: 29.21%;
+top: 79.2%;
+bottom: 19.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 69.88%;
+right: 29.21%;
+top: 79.2%;
+bottom: 19.01%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 60.23%;
+right: 38.32%;
+top: 61.65%;
+bottom: 36.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 60.23%;
+right: 38.32%;
+top: 61.65%;
+bottom: 36.18%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 48.81%;
+right: 31.22%;
+top: 64.5%;
+bottom: 13.86%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.81%;
+right: 31.22%;
+top: 64.5%;
+bottom: 13.86%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 52.64%;
+right: 35.05%;
+top: 72.89%;
+bottom: 13.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.64%;
+right: 35.05%;
+top: 72.89%;
+bottom: 13.86%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 27.3%;
+top: 75.04%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 27.3%;
+top: 75.04%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 63.58%;
+right: 29.35%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 63.58%;
+right: 29.35%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 63.58%;
+right: 29.35%;
+top: 75.04%;
+bottom: 21.03%;
+
+background: #7DCCA0;
+
+
+/* Group */
+
+position: absolute;
+left: 45.92%;
+right: 47.1%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 45.92%;
+right: 47.1%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 45.92%;
+right: 47.1%;
+top: 75.04%;
+bottom: 21.03%;
+
+background: #7DCCA0;
+
+
+/* Group */
+
+position: absolute;
+left: 46.55%;
+right: 27.32%;
+top: 76.7%;
+bottom: 11.26%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.55%;
+right: 27.32%;
+top: 76.7%;
+bottom: 11.26%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.55%;
+right: 27.32%;
+top: 76.7%;
+bottom: 11.26%;
+
+background: #EB7B2A;
+
+
+/* Group */
+
+position: absolute;
+left: 46.53%;
+right: 27.3%;
+top: 78.75%;
+bottom: 18.74%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.53%;
+right: 27.3%;
+top: 78.75%;
+bottom: 18.74%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.53%;
+right: 27.3%;
+top: 78.75%;
+bottom: 18.74%;
+
+background: #FFEFDA;
+
+
+/* Group */
+
+position: absolute;
+left: 46.57%;
+right: 27.34%;
+top: 81.3%;
+bottom: 16.2%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.57%;
+right: 27.34%;
+top: 81.3%;
+bottom: 16.2%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.57%;
+right: 27.34%;
+top: 81.3%;
+bottom: 16.2%;
+
+background: #FFEFDA;
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 45.44%;
+top: 81.76%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 45.44%;
+top: 81.76%;
+bottom: 9.21%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 44.04%;
+right: 45.44%;
+top: 81.76%;
+bottom: 9.21%;
+
+background: #038E6A;
+
+
+/* Group */
+
+position: absolute;
+left: 58.73%;
+right: 28.06%;
+top: 80.99%;
+bottom: 11.84%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.73%;
+right: 28.06%;
+top: 80.99%;
+bottom: 11.84%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.73%;
+right: 28.06%;
+top: 80.99%;
+bottom: 11.84%;
+
+background: #038E6A;
+
+
+/* Group */
+
+position: absolute;
+left: 52.69%;
+right: 34.79%;
+top: 72.89%;
+bottom: 13.63%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.69%;
+right: 34.79%;
+top: 72.89%;
+bottom: 13.63%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.76%;
+right: 34.79%;
+top: 73.44%;
+bottom: 13.83%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.76%;
+right: 34.79%;
+top: 73.44%;
+bottom: 13.83%;
+
+background: #F9EBE2;
+
+
+/* Group */
+
+position: absolute;
+left: 53.42%;
+right: 46.25%;
+top: 75.71%;
+bottom: 18.21%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.42%;
+right: 46.25%;
+top: 75.71%;
+bottom: 18.21%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 54.11%;
+right: 45.2%;
+top: 74.42%;
+bottom: 17.66%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.11%;
+right: 45.2%;
+top: 74.42%;
+bottom: 17.66%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 54.56%;
+right: 44.48%;
+top: 74.17%;
+bottom: 17.07%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.56%;
+right: 44.48%;
+top: 74.17%;
+bottom: 17.07%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 55.15%;
+right: 43.72%;
+top: 73.63%;
+bottom: 13.65%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.15%;
+right: 43.72%;
+top: 73.63%;
+bottom: 13.65%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 55.93%;
+right: 43.17%;
+top: 73.58%;
+bottom: 13.75%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.93%;
+right: 43.17%;
+top: 73.58%;
+bottom: 13.75%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 56.79%;
+right: 42.48%;
+top: 73.28%;
+bottom: 13.84%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.79%;
+right: 42.48%;
+top: 73.28%;
+bottom: 13.84%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 57.58%;
+right: 41.86%;
+top: 73.24%;
+bottom: 13.76%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.58%;
+right: 41.86%;
+top: 73.24%;
+bottom: 13.76%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 58.65%;
+right: 40.98%;
+top: 73.2%;
+bottom: 13.88%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 58.65%;
+right: 40.98%;
+top: 73.2%;
+bottom: 13.88%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 59.43%;
+right: 40.29%;
+top: 73.28%;
+bottom: 13.84%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 59.43%;
+right: 40.29%;
+top: 73.28%;
+bottom: 13.84%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 60.29%;
+right: 39.38%;
+top: 73.37%;
+bottom: 13.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.29%;
+right: 39.38%;
+top: 73.37%;
+bottom: 13.63%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 60.96%;
+right: 38.77%;
+top: 73.58%;
+bottom: 13.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.96%;
+right: 38.77%;
+top: 73.58%;
+bottom: 13.8%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 61.45%;
+right: 38.05%;
+top: 73.99%;
+bottom: 13.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 61.45%;
+right: 38.05%;
+top: 73.99%;
+bottom: 13.8%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 62.02%;
+right: 37.37%;
+top: 74.44%;
+bottom: 13.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 62.02%;
+right: 37.37%;
+top: 74.44%;
+bottom: 13.8%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 62.72%;
+right: 36.93%;
+top: 75.41%;
+bottom: 17.28%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 62.72%;
+right: 36.93%;
+top: 75.41%;
+bottom: 17.28%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 63.31%;
+right: 36.32%;
+top: 76.68%;
+bottom: 17.95%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 63.31%;
+right: 36.32%;
+top: 76.68%;
+bottom: 17.95%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 63.94%;
+right: 35.67%;
+top: 78.6%;
+bottom: 18.42%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 63.94%;
+right: 35.67%;
+top: 78.6%;
+bottom: 18.42%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 54.68%;
+right: 38.14%;
+top: 74.03%;
+bottom: 25.26%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.68%;
+right: 38.14%;
+top: 74.03%;
+bottom: 25.26%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 53.6%;
+right: 37.15%;
+top: 75.23%;
+bottom: 23.94%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.6%;
+right: 37.15%;
+top: 75.23%;
+bottom: 23.94%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 53.01%;
+right: 36.41%;
+top: 77%;
+bottom: 22.45%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.01%;
+right: 36.41%;
+top: 77%;
+bottom: 22.45%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 52.76%;
+right: 35.95%;
+top: 78.23%;
+bottom: 20.81%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.76%;
+right: 35.95%;
+top: 78.23%;
+bottom: 20.81%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 52.69%;
+right: 35.45%;
+top: 79.97%;
+bottom: 19.44%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.69%;
+right: 35.45%;
+top: 79.97%;
+bottom: 19.44%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 53.73%;
+right: 35.85%;
+top: 81.28%;
+bottom: 17.86%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.73%;
+right: 35.85%;
+top: 81.28%;
+bottom: 17.86%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 57.42%;
+right: 40.04%;
+top: 72.89%;
+bottom: 24.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.42%;
+right: 40.04%;
+top: 72.89%;
+bottom: 24.18%;
+
+background: #6A3C14;
+
+
+/* Group */
+
+position: absolute;
+left: 54.62%;
+right: 37.24%;
+top: 73.42%;
+bottom: 13.81%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.62%;
+right: 37.24%;
+top: 73.42%;
+bottom: 13.81%;
+
+background: #6A3C14;
+
+
+/* Group */
+
+position: absolute;
+left: 57.03%;
+right: 39.66%;
+top: 76.77%;
+bottom: 22.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.03%;
+right: 39.66%;
+top: 76.77%;
+bottom: 22.37%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 56.44%;
+right: 43.07%;
+top: 77.79%;
+bottom: 21.33%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.44%;
+right: 43.07%;
+top: 77.79%;
+bottom: 21.33%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 60.54%;
+right: 38.96%;
+top: 77.79%;
+bottom: 21.33%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.54%;
+right: 38.96%;
+top: 77.79%;
+bottom: 21.33%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 57.47%;
+right: 40.07%;
+top: 79.24%;
+bottom: 18.04%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.47%;
+right: 40.07%;
+top: 79.24%;
+bottom: 18.04%;
+
+background: #B86C1A;
+
+
+/* Group */
+
+position: absolute;
+left: 57.42%;
+right: 40.02%;
+top: 79.15%;
+bottom: 19.43%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.42%;
+right: 40.02%;
+top: 79.15%;
+bottom: 19.43%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 54.86%;
+right: 43.47%;
+top: 73.67%;
+bottom: 13.93%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.86%;
+right: 43.47%;
+top: 73.67%;
+bottom: 13.93%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 60.83%;
+right: 37.5%;
+top: 73.67%;
+bottom: 13.93%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.83%;
+right: 37.5%;
+top: 73.67%;
+bottom: 13.93%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 56.13%;
+right: 42.94%;
+top: 75.72%;
+bottom: 23.7%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.13%;
+right: 42.94%;
+top: 75.72%;
+bottom: 23.7%;
+
+background: #B86C1A;
+
+
+/* Group */
+
+position: absolute;
+left: 60.32%;
+right: 38.74%;
+top: 75.72%;
+bottom: 23.7%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 60.32%;
+right: 38.74%;
+top: 75.72%;
+bottom: 23.7%;
+
+background: #B86C1A;
+
+
+/* Group */
+
+position: absolute;
+left: 55.27%;
+right: 37.88%;
+top: 62.78%;
+bottom: 31.09%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 62.78%;
+bottom: 34.27%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 62.78%;
+bottom: 34.27%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 57.67%;
+right: 40.36%;
+top: 63.03%;
+bottom: 36.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.67%;
+right: 40.36%;
+top: 63.03%;
+bottom: 36.67%;
+
+background: #BB5235;
+
+
+/* Group */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 63.81%;
+bottom: 35.51%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 63.81%;
+bottom: 35.51%;
+
+background: #6A3C14;
+
+
+/* Group */
+
+position: absolute;
+left: 55.27%;
+right: 37.88%;
+top: 64.29%;
+bottom: 31.09%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.27%;
+right: 37.88%;
+top: 64.29%;
+bottom: 31.09%;
+
+background: #BB5235;
+
+
+/* Group */
+
+position: absolute;
+left: 55.56%;
+right: 38.18%;
+top: 64.46%;
+bottom: 31.2%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.56%;
+right: 38.18%;
+top: 64.46%;
+bottom: 31.2%;
+
+background: #5E2029;
+
+
+/* Group */
+
+position: absolute;
+left: 56.62%;
+right: 39.23%;
+top: 65.37%;
+bottom: 31.83%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.62%;
+right: 39.23%;
+top: 65.37%;
+bottom: 31.83%;
+
+background: #5E2029;
+
+
+/* Group */
+
+position: absolute;
+left: 57.74%;
+right: 40.34%;
+top: 69.02%;
+bottom: 24.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.74%;
+right: 40.34%;
+top: 69.02%;
+bottom: 24.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.74%;
+right: 40.34%;
+top: 69.02%;
+bottom: 24.75%;
+
+background: #FF9F82;
+
+
+/* Group */
+
+position: absolute;
+left: 57.84%;
+right: 40.45%;
+top: 70.62%;
+bottom: 26.34%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.84%;
+right: 40.45%;
+top: 70.62%;
+bottom: 26.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.84%;
+right: 40.45%;
+top: 70.62%;
+bottom: 26.34%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 39.39%;
+top: 25.93%;
+bottom: 27.17%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 39.39%;
+top: 25.93%;
+bottom: 27.17%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.17%;
+right: 39.87%;
+top: 65.42%;
+bottom: 31.11%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.17%;
+right: 39.87%;
+top: 65.42%;
+bottom: 31.11%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.17%;
+right: 39.87%;
+top: 65.42%;
+bottom: 31.11%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.26%;
+right: 40.04%;
+top: 66.26%;
+bottom: 28.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.26%;
+right: 40.04%;
+top: 66.26%;
+bottom: 28.06%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.26%;
+right: 40.04%;
+top: 66.26%;
+bottom: 28.06%;
+
+background: #FF9F82;
+
+
+/* Group */
+
+position: absolute;
+left: 56.73%;
+right: 39.39%;
+top: 67.98%;
+bottom: 30.42%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.73%;
+right: 39.39%;
+top: 67.98%;
+bottom: 30.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.73%;
+right: 39.39%;
+top: 67.98%;
+bottom: 30.42%;
+
+background: #FF9F82;
+
+
+/* Group */
+
+position: absolute;
+left: 56.86%;
+right: 39.56%;
+top: 68.37%;
+bottom: 30.8%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.86%;
+right: 42.75%;
+top: 68.37%;
+bottom: 30.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.86%;
+right: 42.75%;
+top: 68.37%;
+bottom: 30.8%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 60.05%;
+right: 39.56%;
+top: 68.37%;
+bottom: 30.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.05%;
+right: 39.56%;
+top: 68.37%;
+bottom: 30.8%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.2%;
+right: 39.9%;
+top: 67.87%;
+bottom: 27.17%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.2%;
+right: 39.9%;
+top: 67.87%;
+bottom: 27.17%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.2%;
+right: 39.9%;
+top: 67.87%;
+bottom: 27.17%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.72%;
+right: 40.34%;
+top: 67.04%;
+bottom: 32.38%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.95%;
+right: 40.34%;
+top: 67.04%;
+bottom: 32.38%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.95%;
+right: 40.34%;
+top: 67.04%;
+bottom: 32.38%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.72%;
+right: 41.57%;
+top: 67.04%;
+bottom: 32.39%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.72%;
+right: 41.57%;
+top: 67.04%;
+bottom: 32.39%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.93%;
+right: 40.48%;
+top: 68%;
+bottom: 31.39%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.04%;
+right: 41.74%;
+top: 68%;
+bottom: 31.61%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.04%;
+right: 41.74%;
+top: 68%;
+bottom: 31.61%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.93%;
+right: 41.63%;
+top: 68.2%;
+bottom: 31.39%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.93%;
+right: 41.63%;
+top: 68.2%;
+bottom: 31.39%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 59.19%;
+right: 40.59%;
+top: 68%;
+bottom: 31.61%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 59.19%;
+right: 40.59%;
+top: 68%;
+bottom: 31.61%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 59.09%;
+right: 40.48%;
+top: 68.2%;
+bottom: 31.39%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 59.09%;
+right: 40.48%;
+top: 68.2%;
+bottom: 31.39%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 58.36%;
+right: 40.98%;
+top: 67.62%;
+bottom: 30.62%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.36%;
+right: 40.98%;
+top: 67.62%;
+bottom: 30.62%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 58.36%;
+right: 40.98%;
+top: 67.62%;
+bottom: 30.62%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 58.18%;
+right: 41.06%;
+top: 70.17%;
+bottom: 29.5%;
+
+transform: rotate(-6deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.18%;
+right: 41.06%;
+top: 70.17%;
+bottom: 29.5%;
+
+transform: rotate(-6deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.18%;
+right: 41.06%;
+top: 70.17%;
+bottom: 29.5%;
+
+background: #FFFFFF;
+transform: rotate(-6deg);
+
+
+/* Group */
+
+position: absolute;
+left: 27.87%;
+right: 69.62%;
+top: 25.93%;
+bottom: 70.46%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 27.87%;
+right: 69.62%;
+top: 25.93%;
+bottom: 70.46%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 27.87%;
+right: 69.62%;
+top: 25.93%;
+bottom: 70.46%;
+
+background: #4A4FFF;
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 72.02%;
+top: 27.11%;
+bottom: 71.66%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.29%;
+right: 72.02%;
+top: 27.11%;
+bottom: 71.66%;
+
+background: #FF0000;
+
+
+/* Group */
+
+position: absolute;
+left: 58.69%;
+right: 41.31%;
+top: 67.43%;
+bottom: 32.53%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.69%;
+right: 41.31%;
+top: 67.43%;
+bottom: 32.53%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.69%;
+right: 41.31%;
+top: 67.43%;
+bottom: 32.53%;
+
+background: #AF4545;
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 40.54%;
+top: 72.6%;
+bottom: 13.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 40.54%;
+top: 72.6%;
+bottom: 13.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 53.37%;
+right: 45.56%;
+top: 73.98%;
+bottom: 21.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 53.37%;
+right: 46.36%;
+top: 74.7%;
+bottom: 24.39%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.37%;
+right: 46.36%;
+top: 74.7%;
+bottom: 24.39%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 53.56%;
+right: 45.95%;
+top: 76.32%;
+bottom: 23.08%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.56%;
+right: 45.95%;
+top: 76.32%;
+bottom: 23.08%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 53.83%;
+right: 45.66%;
+top: 73.98%;
+bottom: 24.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.83%;
+right: 45.66%;
+top: 73.98%;
+bottom: 24.34%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 53.45%;
+right: 45.69%;
+top: 74.97%;
+bottom: 21.03%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.45%;
+right: 45.69%;
+top: 74.97%;
+bottom: 21.03%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 53.77%;
+right: 45.87%;
+top: 76.54%;
+bottom: 22.92%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.77%;
+right: 45.87%;
+top: 76.54%;
+bottom: 22.92%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 54.11%;
+right: 45.56%;
+top: 75.47%;
+bottom: 23.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.11%;
+right: 45.56%;
+top: 75.47%;
+bottom: 23.65%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 54.05%;
+right: 45.7%;
+top: 75.8%;
+bottom: 23.49%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.05%;
+right: 45.7%;
+top: 75.8%;
+bottom: 23.49%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 54.03%;
+right: 45.81%;
+top: 74.68%;
+bottom: 22.58%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.03%;
+right: 45.81%;
+top: 74.68%;
+bottom: 22.58%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 49.88%;
+right: 47.1%;
+top: 72.85%;
+bottom: 19.14%;
+
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.88%;
+right: 47.14%;
+top: 72.85%;
+bottom: 21.09%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.88%;
+right: 47.14%;
+top: 72.85%;
+bottom: 21.09%;
+
+background: #007155;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.92%;
+right: 47.1%;
+top: 72.88%;
+bottom: 21.05%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.92%;
+right: 47.1%;
+top: 72.88%;
+bottom: 21.05%;
+
+background: #007155;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.68%;
+right: 47.31%;
+top: 74.68%;
+bottom: 19.13%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.68%;
+right: 47.31%;
+top: 74.68%;
+bottom: 19.13%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51%;
+right: 48.3%;
+top: 75.89%;
+bottom: 23.65%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51%;
+right: 48.3%;
+top: 75.89%;
+bottom: 23.65%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.26%;
+right: 48.43%;
+top: 74.56%;
+bottom: 24.31%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.26%;
+right: 48.43%;
+top: 74.56%;
+bottom: 24.31%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.39%;
+right: 47.95%;
+top: 76.83%;
+bottom: 22.75%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.39%;
+right: 47.95%;
+top: 76.83%;
+bottom: 22.75%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.8%;
+right: 48.04%;
+top: 75.77%;
+bottom: 23.53%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.8%;
+right: 48.04%;
+top: 75.77%;
+bottom: 23.53%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 47.34%;
+top: 75.17%;
+bottom: 18.3%;
+
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 47.61%;
+top: 75.17%;
+bottom: 20.07%;
+
+transform: rotate(0deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 48.56%;
+right: 47.61%;
+top: 75.17%;
+bottom: 20.07%;
+
+background: #00AA80;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.49%;
+right: 47.34%;
+top: 77.09%;
+bottom: 18.3%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 49.49%;
+right: 47.34%;
+top: 77.09%;
+bottom: 18.3%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.09%;
+right: 49.2%;
+top: 77.68%;
+bottom: 21.78%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.09%;
+right: 49.2%;
+top: 77.68%;
+bottom: 21.78%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50%;
+right: 49.54%;
+top: 76.51%;
+bottom: 22.47%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50%;
+right: 49.54%;
+top: 76.51%;
+bottom: 22.47%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.72%;
+right: 48.68%;
+top: 78.12%;
+bottom: 21.13%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.72%;
+right: 48.68%;
+top: 78.12%;
+bottom: 21.13%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.85%;
+right: 48.95%;
+top: 77.2%;
+bottom: 22.1%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.85%;
+right: 48.95%;
+top: 77.2%;
+bottom: 22.1%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.9%;
+right: 46.37%;
+top: 72.6%;
+bottom: 20.74%;
+
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.9%;
+right: 46.37%;
+top: 72.6%;
+bottom: 22.14%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 51.9%;
+right: 46.37%;
+top: 72.6%;
+bottom: 22.14%;
+
+background: #025E46;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.36%;
+right: 46.73%;
+top: 73.98%;
+bottom: 20.71%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.36%;
+right: 46.73%;
+top: 73.98%;
+bottom: 20.71%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.4%;
+right: 47.08%;
+top: 75.01%;
+bottom: 24.4%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.4%;
+right: 47.08%;
+top: 75.01%;
+bottom: 24.4%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.73%;
+right: 47.01%;
+top: 74.17%;
+bottom: 24.91%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.73%;
+right: 47.01%;
+top: 74.17%;
+bottom: 24.91%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.52%;
+right: 46.95%;
+top: 75.99%;
+bottom: 23.62%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.52%;
+right: 46.95%;
+top: 75.99%;
+bottom: 23.62%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.93%;
+right: 46.87%;
+top: 75.33%;
+bottom: 24.12%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.93%;
+right: 46.87%;
+top: 75.33%;
+bottom: 24.12%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.21%;
+right: 43.12%;
+top: 77.3%;
+bottom: 21.51%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.21%;
+right: 43.12%;
+top: 77.3%;
+bottom: 21.51%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.21%;
+right: 43.12%;
+top: 77.3%;
+bottom: 21.51%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 56.91%;
+right: 42.58%;
+top: 76.02%;
+bottom: 21.94%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.91%;
+right: 42.58%;
+top: 76.02%;
+bottom: 21.94%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.91%;
+right: 42.58%;
+top: 76.02%;
+bottom: 21.94%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 56.64%;
+right: 43.01%;
+top: 75.39%;
+bottom: 17.68%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.64%;
+right: 43.01%;
+top: 75.39%;
+bottom: 17.68%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.64%;
+right: 43.01%;
+top: 75.39%;
+bottom: 17.68%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 56.88%;
+right: 42.77%;
+top: 76.71%;
+bottom: 22.13%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.88%;
+right: 42.77%;
+top: 76.71%;
+bottom: 22.13%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.88%;
+right: 42.77%;
+top: 76.71%;
+bottom: 22.13%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 56.44%;
+right: 43.02%;
+top: 77.77%;
+bottom: 21.36%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.44%;
+right: 43.02%;
+top: 77.77%;
+bottom: 21.36%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.44%;
+right: 43.02%;
+top: 77.77%;
+bottom: 21.36%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 56.43%;
+right: 43.1%;
+top: 74.73%;
+bottom: 23.73%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.43%;
+right: 43.1%;
+top: 74.73%;
+bottom: 23.73%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.43%;
+right: 43.1%;
+top: 74.73%;
+bottom: 23.73%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 56.5%;
+right: 40.84%;
+top: 74%;
+bottom: 20.01%;
+
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.61%;
+right: 41.97%;
+top: 73.81%;
+bottom: 24.87%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.61%;
+right: 41.97%;
+top: 73.81%;
+bottom: 24.87%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.19%;
+right: 42.49%;
+top: 75.93%;
+bottom: 22.66%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.19%;
+right: 42.49%;
+top: 75.93%;
+bottom: 22.66%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.12%;
+right: 40.84%;
+top: 73.87%;
+bottom: 24.13%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.12%;
+right: 40.84%;
+top: 73.87%;
+bottom: 24.13%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.53%;
+right: 42.11%;
+top: 74.4%;
+bottom: 20.01%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.53%;
+right: 42.11%;
+top: 74.4%;
+bottom: 20.01%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.39%;
+right: 42.43%;
+top: 76.49%;
+bottom: 22.49%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.39%;
+right: 42.43%;
+top: 76.49%;
+bottom: 22.49%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.89%;
+right: 41.31%;
+top: 76.11%;
+bottom: 23.27%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.89%;
+right: 41.31%;
+top: 76.11%;
+bottom: 23.27%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.81%;
+right: 41.65%;
+top: 76.37%;
+bottom: 23.13%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.81%;
+right: 41.65%;
+top: 76.37%;
+bottom: 23.13%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.27%;
+right: 41.25%;
+top: 75.02%;
+bottom: 22.01%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.27%;
+right: 41.25%;
+top: 75.02%;
+bottom: 22.01%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 74.74%;
+bottom: 17.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 55.36%;
+right: 43.9%;
+top: 75.06%;
+bottom: 23.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.36%;
+right: 43.9%;
+top: 75.06%;
+bottom: 23.86%;
+
+background: #DA441C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 76.11%;
+bottom: 17.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 76.11%;
+bottom: 17.75%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 52.81%;
+right: 44.2%;
+top: 76.21%;
+bottom: 17.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.81%;
+right: 44.2%;
+top: 76.21%;
+bottom: 17.86%;
+
+background: #FF9D45;
+
+
+/* Group */
+
+position: absolute;
+left: 53.51%;
+right: 44.91%;
+top: 76.52%;
+bottom: 17.9%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.51%;
+right: 44.91%;
+top: 76.52%;
+bottom: 17.9%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 78.6%;
+bottom: 17.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 78.6%;
+bottom: 17.75%;
+
+background: #F1834B;
+
+
+/* Group */
+
+position: absolute;
+left: 54.48%;
+right: 44.48%;
+top: 74.87%;
+bottom: 23.04%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.48%;
+right: 44.48%;
+top: 74.87%;
+bottom: 23.04%;
+
+background: #007155;
+
+
+/* Group */
+
+position: absolute;
+left: 54.5%;
+right: 43.69%;
+top: 74.98%;
+bottom: 22.72%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.5%;
+right: 43.69%;
+top: 74.98%;
+bottom: 22.72%;
+
+background: #015B43;
+
+
+/* Group */
+
+position: absolute;
+left: 54.5%;
+right: 45.12%;
+top: 74.74%;
+bottom: 22.77%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.5%;
+right: 45.12%;
+top: 74.74%;
+bottom: 22.77%;
+
+background: #015B43;
+
+
+/* Group */
+
+position: absolute;
+left: 52.22%;
+right: 46.25%;
+top: 77.36%;
+bottom: 20.02%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.22%;
+right: 46.25%;
+top: 77.59%;
+bottom: 20.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.22%;
+right: 46.25%;
+top: 77.59%;
+bottom: 20.02%;
+
+background: #F8522C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.29%;
+right: 46.25%;
+top: 77.99%;
+bottom: 20.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.29%;
+right: 46.25%;
+top: 77.99%;
+bottom: 20.02%;
+
+background: #DA441C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.53%;
+right: 46.71%;
+top: 77.36%;
+bottom: 21.6%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.53%;
+right: 46.71%;
+top: 77.36%;
+bottom: 21.6%;
+
+background: #007155;
+
+
+/* Group */
+
+position: absolute;
+left: 52.78%;
+right: 46.99%;
+top: 77.77%;
+bottom: 21.94%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.78%;
+right: 46.99%;
+top: 77.77%;
+bottom: 21.94%;
+
+background: #015B43;
+
+
+/* Group */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 77.4%;
+bottom: 19.86%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 77.57%;
+bottom: 19.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 77.57%;
+bottom: 19.86%;
+
+background: #F8522C;
+
+
+/* Group */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 78.49%;
+bottom: 19.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 78.49%;
+bottom: 19.86%;
+
+background: #DA441C;
+
+
+/* Group */
+
+position: absolute;
+left: 56.77%;
+right: 42.54%;
+top: 77.4%;
+bottom: 21.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.77%;
+right: 42.54%;
+top: 77.4%;
+bottom: 21.65%;
+
+background: #007155;
+
+
+/* Group */
+
+position: absolute;
+left: 56.98%;
+right: 42.77%;
+top: 77.73%;
+bottom: 21.98%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.98%;
+right: 42.77%;
+top: 77.73%;
+bottom: 21.98%;
+
+background: #0D342A;
+
+
+/* Group */
+
+position: absolute;
+left: 52.91%;
+right: 45.79%;
+top: 79.11%;
+bottom: 18.59%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.91%;
+right: 45.79%;
+top: 79.11%;
+bottom: 18.59%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.91%;
+right: 45.79%;
+top: 79.11%;
+bottom: 18.59%;
+
+background: #F8522C;
+
+
+/* Group */
+
+position: absolute;
+left: 54.02%;
+right: 43.4%;
+top: 76.74%;
+bottom: 16.55%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 54.02%;
+right: 43.4%;
+top: 77.24%;
+bottom: 16.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.02%;
+right: 43.4%;
+top: 77.24%;
+bottom: 16.55%;
+
+background: #3E0124;
+
+
+/* Group */
+
+position: absolute;
+left: 55.3%;
+right: 43.55%;
+top: 76.74%;
+bottom: 22.12%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.3%;
+right: 43.55%;
+top: 76.74%;
+bottom: 22.12%;
+
+background: #006F54;
+
+
+/* Group */
+
+position: absolute;
+left: 55.79%;
+right: 43.98%;
+top: 77.24%;
+bottom: 22.62%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.79%;
+right: 43.98%;
+top: 77.24%;
+bottom: 22.62%;
+
+background: #0D342A;
+
+
+/* Group */
+
+position: absolute;
+left: 54.05%;
+right: 43.4%;
+top: 77.75%;
+bottom: 16.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.05%;
+right: 43.4%;
+top: 77.75%;
+bottom: 16.55%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 50.03%;
+right: 41.61%;
+top: 78.88%;
+bottom: 13.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.75%;
+right: 41.74%;
+top: 81.25%;
+bottom: 15.98%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.75%;
+right: 41.74%;
+top: 81.25%;
+bottom: 15.98%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.84%;
+right: 47.65%;
+top: 81.25%;
+bottom: 15.98%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.84%;
+right: 47.65%;
+top: 81.25%;
+bottom: 15.98%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 82.89%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 82.89%;
+bottom: 13.87%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 78.88%;
+bottom: 18.1%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 78.88%;
+bottom: 18.1%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.17%;
+right: 49.03%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.17%;
+right: 49.03%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.31%;
+right: 46.89%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.31%;
+right: 46.89%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 55.97%;
+right: 43.23%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.97%;
+right: 43.23%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 57.56%;
+right: 41.64%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.56%;
+right: 41.64%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 50.03%;
+right: 48.31%;
+top: 83.15%;
+bottom: 15.4%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.03%;
+right: 48.31%;
+top: 83.15%;
+bottom: 15.4%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.19%;
+right: 48.15%;
+top: 78.94%;
+bottom: 19.6%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.19%;
+right: 48.15%;
+top: 78.94%;
+bottom: 19.6%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 56.35%;
+right: 41.99%;
+top: 82.64%;
+bottom: 15.91%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.35%;
+right: 41.99%;
+top: 82.64%;
+bottom: 15.91%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 54.48%;
+right: 43.86%;
+top: 84.92%;
+bottom: 13.83%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.48%;
+right: 43.86%;
+top: 84.92%;
+bottom: 13.83%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.54%;
+right: 45.31%;
+top: 84.41%;
+bottom: 14.6%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.54%;
+right: 45.31%;
+top: 84.41%;
+bottom: 14.6%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 55.67%;
+right: 41.61%;
+top: 80.69%;
+bottom: 18.32%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.67%;
+right: 41.61%;
+top: 80.69%;
+bottom: 18.32%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 51.82%;
+right: 45.46%;
+top: 80.3%;
+bottom: 18.7%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.82%;
+right: 45.46%;
+top: 80.3%;
+bottom: 18.7%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 54.24%;
+right: 42.59%;
+top: 79.02%;
+bottom: 19.74%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.24%;
+right: 42.59%;
+top: 79.02%;
+bottom: 19.74%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 48.72%;
+right: 48.08%;
+top: 80.31%;
+bottom: 14.29%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 48.91%;
+right: 48.07%;
+top: 80.31%;
+bottom: 14.66%;
+
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 48.91%;
+right: 48.07%;
+top: 80.33%;
+bottom: 14.66%;
+
+transform: rotate(4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 48.91%;
+right: 48.07%;
+top: 80.33%;
+bottom: 14.66%;
+
+background: #FF9F82;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.81%;
+right: 49.31%;
+top: 81.06%;
+bottom: 18.25%;
+
+transform: rotate(4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.81%;
+right: 49.31%;
+top: 81.06%;
+bottom: 18.25%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.02%;
+right: 48.28%;
+top: 82.25%;
+bottom: 17.31%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.02%;
+right: 48.28%;
+top: 82.25%;
+bottom: 17.31%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.97%;
+right: 48.42%;
+top: 83.19%;
+bottom: 16.38%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.97%;
+right: 48.42%;
+top: 83.19%;
+bottom: 16.38%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.85%;
+right: 48.73%;
+top: 84.04%;
+bottom: 15.57%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.85%;
+right: 48.73%;
+top: 84.04%;
+bottom: 15.57%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.37%;
+right: 49.43%;
+top: 80.63%;
+bottom: 19.06%;
+
+transform: rotate(4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 50.37%;
+right: 49.43%;
+top: 80.63%;
+bottom: 19.06%;
+
+background: #FF9F82;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.3%;
+right: 49.35%;
+top: 80.49%;
+bottom: 18.94%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.3%;
+right: 49.35%;
+top: 80.49%;
+bottom: 18.94%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.43%;
+right: 34.61%;
+top: 80.34%;
+bottom: 13.73%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.43%;
+right: 34.75%;
+top: 80.97%;
+bottom: 13.72%;
+
+transform: rotate(-2.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.43%;
+right: 34.75%;
+top: 80.97%;
+bottom: 13.72%;
+
+transform: rotate(-2.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.43%;
+right: 34.75%;
+top: 80.97%;
+bottom: 13.72%;
+
+background: #FF9F82;
+transform: rotate(-2.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.59%;
+right: 40.03%;
+top: 79.88%;
+bottom: 14.41%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.59%;
+right: 40.39%;
+top: 80.63%;
+bottom: 14.36%;
+
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.59%;
+right: 40.39%;
+top: 80.63%;
+bottom: 14.36%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 56.59%;
+right: 40.39%;
+top: 80.63%;
+bottom: 14.36%;
+
+background: #FF9F82;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.84%;
+right: 41.28%;
+top: 80.94%;
+bottom: 18.37%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.84%;
+right: 41.28%;
+top: 80.94%;
+bottom: 18.37%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.85%;
+right: 42.44%;
+top: 82.23%;
+bottom: 17.33%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.85%;
+right: 42.44%;
+top: 82.23%;
+bottom: 17.33%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.04%;
+right: 42.36%;
+top: 83.14%;
+bottom: 16.43%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.04%;
+right: 42.36%;
+top: 83.14%;
+bottom: 16.43%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.37%;
+right: 42.21%;
+top: 83.92%;
+bottom: 15.68%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.37%;
+right: 42.21%;
+top: 83.92%;
+bottom: 15.68%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.94%;
+right: 41.86%;
+top: 80.41%;
+bottom: 19.28%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.94%;
+right: 41.86%;
+top: 80.41%;
+bottom: 19.28%;
+
+background: #FF9F82;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58%;
+right: 41.79%;
+top: 80.29%;
+bottom: 19.19%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 58%;
+right: 41.79%;
+top: 80.29%;
+bottom: 19.19%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 27.3%;
+top: 25.93%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 27.3%;
+top: 25.93%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.66%;
+right: 29.19%;
+top: 61.14%;
+bottom: 13.86%;
+
+opacity: 0.2;
+
+
+/* Group */
+
+position: absolute;
+left: 46.78%;
+right: 29.19%;
+top: 61.14%;
+bottom: 13.86%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.78%;
+right: 29.19%;
+top: 61.14%;
+bottom: 13.86%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 46.66%;
+right: 51.63%;
+top: 70.92%;
+bottom: 26.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.66%;
+right: 51.63%;
+top: 70.92%;
+bottom: 26.33%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 69.88%;
+right: 29.21%;
+top: 79.2%;
+bottom: 19.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 69.88%;
+right: 29.21%;
+top: 79.2%;
+bottom: 19.01%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 60.23%;
+right: 38.32%;
+top: 61.65%;
+bottom: 36.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 60.23%;
+right: 38.32%;
+top: 61.65%;
+bottom: 36.18%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 48.81%;
+right: 31.22%;
+top: 64.5%;
+bottom: 13.86%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.81%;
+right: 31.22%;
+top: 64.5%;
+bottom: 13.86%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 52.64%;
+right: 35.05%;
+top: 72.89%;
+bottom: 13.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.64%;
+right: 35.05%;
+top: 72.89%;
+bottom: 13.86%;
+
+background: #FF9C42;
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 27.3%;
+top: 75.04%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 27.3%;
+top: 75.04%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 63.58%;
+right: 29.35%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 63.58%;
+right: 29.35%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 63.58%;
+right: 29.35%;
+top: 75.04%;
+bottom: 21.03%;
+
+background: #7DCCA0;
+
+
+/* Group */
+
+position: absolute;
+left: 45.92%;
+right: 47.1%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 45.92%;
+right: 47.1%;
+top: 75.04%;
+bottom: 21.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 45.92%;
+right: 47.1%;
+top: 75.04%;
+bottom: 21.03%;
+
+background: #7DCCA0;
+
+
+/* Group */
+
+position: absolute;
+left: 46.55%;
+right: 27.32%;
+top: 76.7%;
+bottom: 11.26%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.55%;
+right: 27.32%;
+top: 76.7%;
+bottom: 11.26%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.55%;
+right: 27.32%;
+top: 76.7%;
+bottom: 11.26%;
+
+background: #EB7B2A;
+
+
+/* Group */
+
+position: absolute;
+left: 46.53%;
+right: 27.3%;
+top: 78.75%;
+bottom: 18.74%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.53%;
+right: 27.3%;
+top: 78.75%;
+bottom: 18.74%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.53%;
+right: 27.3%;
+top: 78.75%;
+bottom: 18.74%;
+
+background: #FFEFDA;
+
+
+/* Group */
+
+position: absolute;
+left: 46.57%;
+right: 27.34%;
+top: 81.3%;
+bottom: 16.2%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.57%;
+right: 27.34%;
+top: 81.3%;
+bottom: 16.2%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 46.57%;
+right: 27.34%;
+top: 81.3%;
+bottom: 16.2%;
+
+background: #FFEFDA;
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 45.44%;
+top: 81.76%;
+bottom: 9.21%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 44.04%;
+right: 45.44%;
+top: 81.76%;
+bottom: 9.21%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 44.04%;
+right: 45.44%;
+top: 81.76%;
+bottom: 9.21%;
+
+background: #038E6A;
+
+
+/* Group */
+
+position: absolute;
+left: 58.73%;
+right: 28.06%;
+top: 80.99%;
+bottom: 11.84%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.73%;
+right: 28.06%;
+top: 80.99%;
+bottom: 11.84%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.73%;
+right: 28.06%;
+top: 80.99%;
+bottom: 11.84%;
+
+background: #038E6A;
+
+
+/* Group */
+
+position: absolute;
+left: 52.69%;
+right: 34.79%;
+top: 72.89%;
+bottom: 13.63%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.69%;
+right: 34.79%;
+top: 72.89%;
+bottom: 13.63%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.76%;
+right: 34.79%;
+top: 73.44%;
+bottom: 13.83%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.76%;
+right: 34.79%;
+top: 73.44%;
+bottom: 13.83%;
+
+background: #F9EBE2;
+
+
+/* Group */
+
+position: absolute;
+left: 53.42%;
+right: 46.25%;
+top: 75.71%;
+bottom: 18.21%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.42%;
+right: 46.25%;
+top: 75.71%;
+bottom: 18.21%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 54.11%;
+right: 45.2%;
+top: 74.42%;
+bottom: 17.66%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.11%;
+right: 45.2%;
+top: 74.42%;
+bottom: 17.66%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 54.56%;
+right: 44.48%;
+top: 74.17%;
+bottom: 17.07%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.56%;
+right: 44.48%;
+top: 74.17%;
+bottom: 17.07%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 55.15%;
+right: 43.72%;
+top: 73.63%;
+bottom: 13.65%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.15%;
+right: 43.72%;
+top: 73.63%;
+bottom: 13.65%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 55.93%;
+right: 43.17%;
+top: 73.58%;
+bottom: 13.75%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.93%;
+right: 43.17%;
+top: 73.58%;
+bottom: 13.75%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 56.79%;
+right: 42.48%;
+top: 73.28%;
+bottom: 13.84%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.79%;
+right: 42.48%;
+top: 73.28%;
+bottom: 13.84%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 57.58%;
+right: 41.86%;
+top: 73.24%;
+bottom: 13.76%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.58%;
+right: 41.86%;
+top: 73.24%;
+bottom: 13.76%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 58.65%;
+right: 40.98%;
+top: 73.2%;
+bottom: 13.88%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 58.65%;
+right: 40.98%;
+top: 73.2%;
+bottom: 13.88%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 59.43%;
+right: 40.29%;
+top: 73.28%;
+bottom: 13.84%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 59.43%;
+right: 40.29%;
+top: 73.28%;
+bottom: 13.84%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 60.29%;
+right: 39.38%;
+top: 73.37%;
+bottom: 13.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.29%;
+right: 39.38%;
+top: 73.37%;
+bottom: 13.63%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 60.96%;
+right: 38.77%;
+top: 73.58%;
+bottom: 13.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.96%;
+right: 38.77%;
+top: 73.58%;
+bottom: 13.8%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 61.45%;
+right: 38.05%;
+top: 73.99%;
+bottom: 13.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 61.45%;
+right: 38.05%;
+top: 73.99%;
+bottom: 13.8%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 62.02%;
+right: 37.37%;
+top: 74.44%;
+bottom: 13.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 62.02%;
+right: 37.37%;
+top: 74.44%;
+bottom: 13.8%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 62.72%;
+right: 36.93%;
+top: 75.41%;
+bottom: 17.28%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 62.72%;
+right: 36.93%;
+top: 75.41%;
+bottom: 17.28%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 63.31%;
+right: 36.32%;
+top: 76.68%;
+bottom: 17.95%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 63.31%;
+right: 36.32%;
+top: 76.68%;
+bottom: 17.95%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 63.94%;
+right: 35.67%;
+top: 78.6%;
+bottom: 18.42%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 63.94%;
+right: 35.67%;
+top: 78.6%;
+bottom: 18.42%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 54.68%;
+right: 38.14%;
+top: 74.03%;
+bottom: 25.26%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.68%;
+right: 38.14%;
+top: 74.03%;
+bottom: 25.26%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 53.6%;
+right: 37.15%;
+top: 75.23%;
+bottom: 23.94%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.6%;
+right: 37.15%;
+top: 75.23%;
+bottom: 23.94%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 53.01%;
+right: 36.41%;
+top: 77%;
+bottom: 22.45%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.01%;
+right: 36.41%;
+top: 77%;
+bottom: 22.45%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 52.76%;
+right: 35.95%;
+top: 78.23%;
+bottom: 20.81%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.76%;
+right: 35.95%;
+top: 78.23%;
+bottom: 20.81%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 52.69%;
+right: 35.45%;
+top: 79.97%;
+bottom: 19.44%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.69%;
+right: 35.45%;
+top: 79.97%;
+bottom: 19.44%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 53.73%;
+right: 35.85%;
+top: 81.28%;
+bottom: 17.86%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.73%;
+right: 35.85%;
+top: 81.28%;
+bottom: 17.86%;
+
+background: #D2E4DB;
+
+
+/* Group */
+
+position: absolute;
+left: 57.42%;
+right: 40.04%;
+top: 72.89%;
+bottom: 24.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.42%;
+right: 40.04%;
+top: 72.89%;
+bottom: 24.18%;
+
+background: #6A3C14;
+
+
+/* Group */
+
+position: absolute;
+left: 54.62%;
+right: 37.24%;
+top: 73.42%;
+bottom: 13.81%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.62%;
+right: 37.24%;
+top: 73.42%;
+bottom: 13.81%;
+
+background: #6A3C14;
+
+
+/* Group */
+
+position: absolute;
+left: 57.03%;
+right: 39.66%;
+top: 76.77%;
+bottom: 22.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.03%;
+right: 39.66%;
+top: 76.77%;
+bottom: 22.37%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 56.44%;
+right: 43.07%;
+top: 77.79%;
+bottom: 21.33%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.44%;
+right: 43.07%;
+top: 77.79%;
+bottom: 21.33%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 60.54%;
+right: 38.96%;
+top: 77.79%;
+bottom: 21.33%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.54%;
+right: 38.96%;
+top: 77.79%;
+bottom: 21.33%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 57.47%;
+right: 40.07%;
+top: 79.24%;
+bottom: 18.04%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.47%;
+right: 40.07%;
+top: 79.24%;
+bottom: 18.04%;
+
+background: #B86C1A;
+
+
+/* Group */
+
+position: absolute;
+left: 57.42%;
+right: 40.02%;
+top: 79.15%;
+bottom: 19.43%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.42%;
+right: 40.02%;
+top: 79.15%;
+bottom: 19.43%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 54.86%;
+right: 43.47%;
+top: 73.67%;
+bottom: 13.93%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.86%;
+right: 43.47%;
+top: 73.67%;
+bottom: 13.93%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 60.83%;
+right: 37.5%;
+top: 73.67%;
+bottom: 13.93%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.83%;
+right: 37.5%;
+top: 73.67%;
+bottom: 13.93%;
+
+background: #864E11;
+
+
+/* Group */
+
+position: absolute;
+left: 56.13%;
+right: 42.94%;
+top: 75.72%;
+bottom: 23.7%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.13%;
+right: 42.94%;
+top: 75.72%;
+bottom: 23.7%;
+
+background: #B86C1A;
+
+
+/* Group */
+
+position: absolute;
+left: 60.32%;
+right: 38.74%;
+top: 75.72%;
+bottom: 23.7%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 60.32%;
+right: 38.74%;
+top: 75.72%;
+bottom: 23.7%;
+
+background: #B86C1A;
+
+
+/* Group */
+
+position: absolute;
+left: 55.27%;
+right: 37.88%;
+top: 62.78%;
+bottom: 31.09%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 62.78%;
+bottom: 34.27%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 62.78%;
+bottom: 34.27%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 57.67%;
+right: 40.36%;
+top: 63.03%;
+bottom: 36.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.67%;
+right: 40.36%;
+top: 63.03%;
+bottom: 36.67%;
+
+background: #BB5235;
+
+
+/* Group */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 63.81%;
+bottom: 35.51%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.27%;
+right: 39.9%;
+top: 63.81%;
+bottom: 35.51%;
+
+background: #6A3C14;
+
+
+/* Group */
+
+position: absolute;
+left: 55.27%;
+right: 37.88%;
+top: 64.29%;
+bottom: 31.09%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.27%;
+right: 37.88%;
+top: 64.29%;
+bottom: 31.09%;
+
+background: #BB5235;
+
+
+/* Group */
+
+position: absolute;
+left: 55.56%;
+right: 38.18%;
+top: 64.46%;
+bottom: 31.2%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.56%;
+right: 38.18%;
+top: 64.46%;
+bottom: 31.2%;
+
+background: #5E2029;
+
+
+/* Group */
+
+position: absolute;
+left: 56.62%;
+right: 39.23%;
+top: 65.37%;
+bottom: 31.83%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.62%;
+right: 39.23%;
+top: 65.37%;
+bottom: 31.83%;
+
+background: #5E2029;
+
+
+/* Group */
+
+position: absolute;
+left: 57.74%;
+right: 40.34%;
+top: 69.02%;
+bottom: 24.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.74%;
+right: 40.34%;
+top: 69.02%;
+bottom: 24.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.74%;
+right: 40.34%;
+top: 69.02%;
+bottom: 24.75%;
+
+background: #FF9F82;
+
+
+/* Group */
+
+position: absolute;
+left: 57.84%;
+right: 40.45%;
+top: 70.62%;
+bottom: 26.34%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.84%;
+right: 40.45%;
+top: 70.62%;
+bottom: 26.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.84%;
+right: 40.45%;
+top: 70.62%;
+bottom: 26.34%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 39.39%;
+top: 25.93%;
+bottom: 27.17%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 39.39%;
+top: 25.93%;
+bottom: 27.17%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.17%;
+right: 39.87%;
+top: 65.42%;
+bottom: 31.11%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.17%;
+right: 39.87%;
+top: 65.42%;
+bottom: 31.11%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.17%;
+right: 39.87%;
+top: 65.42%;
+bottom: 31.11%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.26%;
+right: 40.04%;
+top: 66.26%;
+bottom: 28.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.26%;
+right: 40.04%;
+top: 66.26%;
+bottom: 28.06%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.26%;
+right: 40.04%;
+top: 66.26%;
+bottom: 28.06%;
+
+background: #FF9F82;
+
+
+/* Group */
+
+position: absolute;
+left: 56.73%;
+right: 39.39%;
+top: 67.98%;
+bottom: 30.42%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.73%;
+right: 39.39%;
+top: 67.98%;
+bottom: 30.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.73%;
+right: 39.39%;
+top: 67.98%;
+bottom: 30.42%;
+
+background: #FF9F82;
+
+
+/* Group */
+
+position: absolute;
+left: 56.86%;
+right: 39.56%;
+top: 68.37%;
+bottom: 30.8%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.86%;
+right: 42.75%;
+top: 68.37%;
+bottom: 30.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.86%;
+right: 42.75%;
+top: 68.37%;
+bottom: 30.8%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 60.05%;
+right: 39.56%;
+top: 68.37%;
+bottom: 30.8%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 60.05%;
+right: 39.56%;
+top: 68.37%;
+bottom: 30.8%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.2%;
+right: 39.9%;
+top: 67.87%;
+bottom: 27.17%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 57.2%;
+right: 39.9%;
+top: 67.87%;
+bottom: 27.17%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.2%;
+right: 39.9%;
+top: 67.87%;
+bottom: 27.17%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.72%;
+right: 40.34%;
+top: 67.04%;
+bottom: 32.38%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.95%;
+right: 40.34%;
+top: 67.04%;
+bottom: 32.38%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.95%;
+right: 40.34%;
+top: 67.04%;
+bottom: 32.38%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.72%;
+right: 41.57%;
+top: 67.04%;
+bottom: 32.39%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.72%;
+right: 41.57%;
+top: 67.04%;
+bottom: 32.39%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.93%;
+right: 40.48%;
+top: 68%;
+bottom: 31.39%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.04%;
+right: 41.74%;
+top: 68%;
+bottom: 31.61%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.04%;
+right: 41.74%;
+top: 68%;
+bottom: 31.61%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 57.93%;
+right: 41.63%;
+top: 68.2%;
+bottom: 31.39%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.93%;
+right: 41.63%;
+top: 68.2%;
+bottom: 31.39%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 59.19%;
+right: 40.59%;
+top: 68%;
+bottom: 31.61%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 59.19%;
+right: 40.59%;
+top: 68%;
+bottom: 31.61%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 59.09%;
+right: 40.48%;
+top: 68.2%;
+bottom: 31.39%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 59.09%;
+right: 40.48%;
+top: 68.2%;
+bottom: 31.39%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 58.36%;
+right: 40.98%;
+top: 67.62%;
+bottom: 30.62%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.36%;
+right: 40.98%;
+top: 67.62%;
+bottom: 30.62%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 58.36%;
+right: 40.98%;
+top: 67.62%;
+bottom: 30.62%;
+
+background: #FB744F;
+
+
+/* Group */
+
+position: absolute;
+left: 58.18%;
+right: 41.06%;
+top: 70.17%;
+bottom: 29.5%;
+
+transform: rotate(-6deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.18%;
+right: 41.06%;
+top: 70.17%;
+bottom: 29.5%;
+
+transform: rotate(-6deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.18%;
+right: 41.06%;
+top: 70.17%;
+bottom: 29.5%;
+
+background: #FFFFFF;
+transform: rotate(-6deg);
+
+
+/* Group */
+
+position: absolute;
+left: 27.87%;
+right: 69.62%;
+top: 25.93%;
+bottom: 70.46%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 27.87%;
+right: 69.62%;
+top: 25.93%;
+bottom: 70.46%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 27.87%;
+right: 69.62%;
+top: 25.93%;
+bottom: 70.46%;
+
+background: #4A4FFF;
+
+
+/* Group */
+
+position: absolute;
+left: 27.29%;
+right: 72.02%;
+top: 27.11%;
+bottom: 71.66%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.29%;
+right: 72.02%;
+top: 27.11%;
+bottom: 71.66%;
+
+background: #FF0000;
+
+
+/* Group */
+
+position: absolute;
+left: 58.69%;
+right: 41.31%;
+top: 67.43%;
+bottom: 32.53%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.69%;
+right: 41.31%;
+top: 67.43%;
+bottom: 32.53%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 58.69%;
+right: 41.31%;
+top: 67.43%;
+bottom: 32.53%;
+
+background: #AF4545;
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 40.54%;
+top: 72.6%;
+bottom: 13.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 40.54%;
+top: 72.6%;
+bottom: 13.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 53.37%;
+right: 45.56%;
+top: 73.98%;
+bottom: 21.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 53.37%;
+right: 46.36%;
+top: 74.7%;
+bottom: 24.39%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.37%;
+right: 46.36%;
+top: 74.7%;
+bottom: 24.39%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 53.56%;
+right: 45.95%;
+top: 76.32%;
+bottom: 23.08%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.56%;
+right: 45.95%;
+top: 76.32%;
+bottom: 23.08%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 53.83%;
+right: 45.66%;
+top: 73.98%;
+bottom: 24.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.83%;
+right: 45.66%;
+top: 73.98%;
+bottom: 24.34%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 53.45%;
+right: 45.69%;
+top: 74.97%;
+bottom: 21.03%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.45%;
+right: 45.69%;
+top: 74.97%;
+bottom: 21.03%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 53.77%;
+right: 45.87%;
+top: 76.54%;
+bottom: 22.92%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 53.77%;
+right: 45.87%;
+top: 76.54%;
+bottom: 22.92%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 54.11%;
+right: 45.56%;
+top: 75.47%;
+bottom: 23.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.11%;
+right: 45.56%;
+top: 75.47%;
+bottom: 23.65%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 54.05%;
+right: 45.7%;
+top: 75.8%;
+bottom: 23.49%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.05%;
+right: 45.7%;
+top: 75.8%;
+bottom: 23.49%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 54.03%;
+right: 45.81%;
+top: 74.68%;
+bottom: 22.58%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.03%;
+right: 45.81%;
+top: 74.68%;
+bottom: 22.58%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 49.88%;
+right: 47.1%;
+top: 72.85%;
+bottom: 19.14%;
+
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.88%;
+right: 47.14%;
+top: 72.85%;
+bottom: 21.09%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.88%;
+right: 47.14%;
+top: 72.85%;
+bottom: 21.09%;
+
+background: #007155;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.92%;
+right: 47.1%;
+top: 72.88%;
+bottom: 21.05%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.92%;
+right: 47.1%;
+top: 72.88%;
+bottom: 21.05%;
+
+background: #007155;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.68%;
+right: 47.31%;
+top: 74.68%;
+bottom: 19.13%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.68%;
+right: 47.31%;
+top: 74.68%;
+bottom: 19.13%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51%;
+right: 48.3%;
+top: 75.89%;
+bottom: 23.65%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51%;
+right: 48.3%;
+top: 75.89%;
+bottom: 23.65%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.26%;
+right: 48.43%;
+top: 74.56%;
+bottom: 24.31%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.26%;
+right: 48.43%;
+top: 74.56%;
+bottom: 24.31%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.39%;
+right: 47.95%;
+top: 76.83%;
+bottom: 22.75%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.39%;
+right: 47.95%;
+top: 76.83%;
+bottom: 22.75%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.8%;
+right: 48.04%;
+top: 75.77%;
+bottom: 23.53%;
+
+transform: rotate(0.16deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.8%;
+right: 48.04%;
+top: 75.77%;
+bottom: 23.53%;
+
+background: #009671;
+transform: rotate(0.16deg);
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 47.34%;
+top: 75.17%;
+bottom: 18.3%;
+
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 48.56%;
+right: 47.61%;
+top: 75.17%;
+bottom: 20.07%;
+
+transform: rotate(0deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 48.56%;
+right: 47.61%;
+top: 75.17%;
+bottom: 20.07%;
+
+background: #00AA80;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.49%;
+right: 47.34%;
+top: 77.09%;
+bottom: 18.3%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 49.49%;
+right: 47.34%;
+top: 77.09%;
+bottom: 18.3%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.09%;
+right: 49.2%;
+top: 77.68%;
+bottom: 21.78%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.09%;
+right: 49.2%;
+top: 77.68%;
+bottom: 21.78%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50%;
+right: 49.54%;
+top: 76.51%;
+bottom: 22.47%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50%;
+right: 49.54%;
+top: 76.51%;
+bottom: 22.47%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.72%;
+right: 48.68%;
+top: 78.12%;
+bottom: 21.13%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.72%;
+right: 48.68%;
+top: 78.12%;
+bottom: 21.13%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.85%;
+right: 48.95%;
+top: 77.2%;
+bottom: 22.1%;
+
+transform: rotate(0deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.85%;
+right: 48.95%;
+top: 77.2%;
+bottom: 22.1%;
+
+background: #007155;
+transform: rotate(0deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.9%;
+right: 46.37%;
+top: 72.6%;
+bottom: 20.74%;
+
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.9%;
+right: 46.37%;
+top: 72.6%;
+bottom: 22.14%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 51.9%;
+right: 46.37%;
+top: 72.6%;
+bottom: 22.14%;
+
+background: #025E46;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.36%;
+right: 46.73%;
+top: 73.98%;
+bottom: 20.71%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.36%;
+right: 46.73%;
+top: 73.98%;
+bottom: 20.71%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.4%;
+right: 47.08%;
+top: 75.01%;
+bottom: 24.4%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.4%;
+right: 47.08%;
+top: 75.01%;
+bottom: 24.4%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.73%;
+right: 47.01%;
+top: 74.17%;
+bottom: 24.91%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.73%;
+right: 47.01%;
+top: 74.17%;
+bottom: 24.91%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.52%;
+right: 46.95%;
+top: 75.99%;
+bottom: 23.62%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.52%;
+right: 46.95%;
+top: 75.99%;
+bottom: 23.62%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.93%;
+right: 46.87%;
+top: 75.33%;
+bottom: 24.12%;
+
+transform: rotate(2.31deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.93%;
+right: 46.87%;
+top: 75.33%;
+bottom: 24.12%;
+
+background: #029970;
+transform: rotate(2.31deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.21%;
+right: 43.12%;
+top: 77.3%;
+bottom: 21.51%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.21%;
+right: 43.12%;
+top: 77.3%;
+bottom: 21.51%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.21%;
+right: 43.12%;
+top: 77.3%;
+bottom: 21.51%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 56.91%;
+right: 42.58%;
+top: 76.02%;
+bottom: 21.94%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.91%;
+right: 42.58%;
+top: 76.02%;
+bottom: 21.94%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.91%;
+right: 42.58%;
+top: 76.02%;
+bottom: 21.94%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 56.64%;
+right: 43.01%;
+top: 75.39%;
+bottom: 17.68%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.64%;
+right: 43.01%;
+top: 75.39%;
+bottom: 17.68%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.64%;
+right: 43.01%;
+top: 75.39%;
+bottom: 17.68%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 56.88%;
+right: 42.77%;
+top: 76.71%;
+bottom: 22.13%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.88%;
+right: 42.77%;
+top: 76.71%;
+bottom: 22.13%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.88%;
+right: 42.77%;
+top: 76.71%;
+bottom: 22.13%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 56.44%;
+right: 43.02%;
+top: 77.77%;
+bottom: 21.36%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.44%;
+right: 43.02%;
+top: 77.77%;
+bottom: 21.36%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.44%;
+right: 43.02%;
+top: 77.77%;
+bottom: 21.36%;
+
+background: #00664E;
+
+
+/* Group */
+
+position: absolute;
+left: 56.43%;
+right: 43.1%;
+top: 74.73%;
+bottom: 23.73%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.43%;
+right: 43.1%;
+top: 74.73%;
+bottom: 23.73%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.43%;
+right: 43.1%;
+top: 74.73%;
+bottom: 23.73%;
+
+background: #00AA80;
+
+
+/* Group */
+
+position: absolute;
+left: 56.5%;
+right: 40.84%;
+top: 74%;
+bottom: 20.01%;
+
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.61%;
+right: 41.97%;
+top: 73.81%;
+bottom: 24.87%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.61%;
+right: 41.97%;
+top: 73.81%;
+bottom: 24.87%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.19%;
+right: 42.49%;
+top: 75.93%;
+bottom: 22.66%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.19%;
+right: 42.49%;
+top: 75.93%;
+bottom: 22.66%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.12%;
+right: 40.84%;
+top: 73.87%;
+bottom: 24.13%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.12%;
+right: 40.84%;
+top: 73.87%;
+bottom: 24.13%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.53%;
+right: 42.11%;
+top: 74.4%;
+bottom: 20.01%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.53%;
+right: 42.11%;
+top: 74.4%;
+bottom: 20.01%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.39%;
+right: 42.43%;
+top: 76.49%;
+bottom: 22.49%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.39%;
+right: 42.43%;
+top: 76.49%;
+bottom: 22.49%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.89%;
+right: 41.31%;
+top: 76.11%;
+bottom: 23.27%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.89%;
+right: 41.31%;
+top: 76.11%;
+bottom: 23.27%;
+
+background: #00AA80;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.81%;
+right: 41.65%;
+top: 76.37%;
+bottom: 23.13%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.81%;
+right: 41.65%;
+top: 76.37%;
+bottom: 23.13%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.27%;
+right: 41.25%;
+top: 75.02%;
+bottom: 22.01%;
+
+transform: rotate(-5.42deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.27%;
+right: 41.25%;
+top: 75.02%;
+bottom: 22.01%;
+
+background: #00664E;
+transform: rotate(-5.42deg);
+
+
+/* Group */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 74.74%;
+bottom: 17.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 55.36%;
+right: 43.9%;
+top: 75.06%;
+bottom: 23.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.36%;
+right: 43.9%;
+top: 75.06%;
+bottom: 23.86%;
+
+background: #DA441C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 76.11%;
+bottom: 17.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 76.11%;
+bottom: 17.75%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 52.81%;
+right: 44.2%;
+top: 76.21%;
+bottom: 17.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.81%;
+right: 44.2%;
+top: 76.21%;
+bottom: 17.86%;
+
+background: #FF9D45;
+
+
+/* Group */
+
+position: absolute;
+left: 53.51%;
+right: 44.91%;
+top: 76.52%;
+bottom: 17.9%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 53.51%;
+right: 44.91%;
+top: 76.52%;
+bottom: 17.9%;
+
+background: #FF8D39;
+
+
+/* Group */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 78.6%;
+bottom: 17.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.19%;
+right: 43.69%;
+top: 78.6%;
+bottom: 17.75%;
+
+background: #F1834B;
+
+
+/* Group */
+
+position: absolute;
+left: 54.48%;
+right: 44.48%;
+top: 74.87%;
+bottom: 23.04%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.48%;
+right: 44.48%;
+top: 74.87%;
+bottom: 23.04%;
+
+background: #007155;
+
+
+/* Group */
+
+position: absolute;
+left: 54.5%;
+right: 43.69%;
+top: 74.98%;
+bottom: 22.72%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.5%;
+right: 43.69%;
+top: 74.98%;
+bottom: 22.72%;
+
+background: #015B43;
+
+
+/* Group */
+
+position: absolute;
+left: 54.5%;
+right: 45.12%;
+top: 74.74%;
+bottom: 22.77%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.5%;
+right: 45.12%;
+top: 74.74%;
+bottom: 22.77%;
+
+background: #015B43;
+
+
+/* Group */
+
+position: absolute;
+left: 52.22%;
+right: 46.25%;
+top: 77.36%;
+bottom: 20.02%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.22%;
+right: 46.25%;
+top: 77.59%;
+bottom: 20.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.22%;
+right: 46.25%;
+top: 77.59%;
+bottom: 20.02%;
+
+background: #F8522C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.29%;
+right: 46.25%;
+top: 77.99%;
+bottom: 20.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.29%;
+right: 46.25%;
+top: 77.99%;
+bottom: 20.02%;
+
+background: #DA441C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.53%;
+right: 46.71%;
+top: 77.36%;
+bottom: 21.6%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.53%;
+right: 46.71%;
+top: 77.36%;
+bottom: 21.6%;
+
+background: #007155;
+
+
+/* Group */
+
+position: absolute;
+left: 52.78%;
+right: 46.99%;
+top: 77.77%;
+bottom: 21.94%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.78%;
+right: 46.99%;
+top: 77.77%;
+bottom: 21.94%;
+
+background: #015B43;
+
+
+/* Group */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 77.4%;
+bottom: 19.86%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 77.57%;
+bottom: 19.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 77.57%;
+bottom: 19.86%;
+
+background: #F8522C;
+
+
+/* Group */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 78.49%;
+bottom: 19.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.2%;
+right: 42.13%;
+top: 78.49%;
+bottom: 19.86%;
+
+background: #DA441C;
+
+
+/* Group */
+
+position: absolute;
+left: 56.77%;
+right: 42.54%;
+top: 77.4%;
+bottom: 21.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.77%;
+right: 42.54%;
+top: 77.4%;
+bottom: 21.65%;
+
+background: #007155;
+
+
+/* Group */
+
+position: absolute;
+left: 56.98%;
+right: 42.77%;
+top: 77.73%;
+bottom: 21.98%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.98%;
+right: 42.77%;
+top: 77.73%;
+bottom: 21.98%;
+
+background: #0D342A;
+
+
+/* Group */
+
+position: absolute;
+left: 52.91%;
+right: 45.79%;
+top: 79.11%;
+bottom: 18.59%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.91%;
+right: 45.79%;
+top: 79.11%;
+bottom: 18.59%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.91%;
+right: 45.79%;
+top: 79.11%;
+bottom: 18.59%;
+
+background: #F8522C;
+
+
+/* Group */
+
+position: absolute;
+left: 54.02%;
+right: 43.4%;
+top: 76.74%;
+bottom: 16.55%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 54.02%;
+right: 43.4%;
+top: 77.24%;
+bottom: 16.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.02%;
+right: 43.4%;
+top: 77.24%;
+bottom: 16.55%;
+
+background: #3E0124;
+
+
+/* Group */
+
+position: absolute;
+left: 55.3%;
+right: 43.55%;
+top: 76.74%;
+bottom: 22.12%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.3%;
+right: 43.55%;
+top: 76.74%;
+bottom: 22.12%;
+
+background: #006F54;
+
+
+/* Group */
+
+position: absolute;
+left: 55.79%;
+right: 43.98%;
+top: 77.24%;
+bottom: 22.62%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.79%;
+right: 43.98%;
+top: 77.24%;
+bottom: 22.62%;
+
+background: #0D342A;
+
+
+/* Group */
+
+position: absolute;
+left: 54.05%;
+right: 43.4%;
+top: 77.75%;
+bottom: 16.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.05%;
+right: 43.4%;
+top: 77.75%;
+bottom: 16.55%;
+
+background: #39011F;
+
+
+/* Group */
+
+position: absolute;
+left: 50.03%;
+right: 41.61%;
+top: 78.88%;
+bottom: 13.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.75%;
+right: 41.74%;
+top: 81.25%;
+bottom: 15.98%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 56.75%;
+right: 41.74%;
+top: 81.25%;
+bottom: 15.98%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.84%;
+right: 47.65%;
+top: 81.25%;
+bottom: 15.98%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.84%;
+right: 47.65%;
+top: 81.25%;
+bottom: 15.98%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 82.89%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 82.89%;
+bottom: 13.87%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 78.88%;
+bottom: 18.1%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.17%;
+right: 41.64%;
+top: 78.88%;
+bottom: 18.1%;
+
+background: #C1583C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.17%;
+right: 49.03%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.17%;
+right: 49.03%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 52.31%;
+right: 46.89%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.31%;
+right: 46.89%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 55.97%;
+right: 43.23%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.97%;
+right: 43.23%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 57.56%;
+right: 41.64%;
+top: 78.88%;
+bottom: 13.87%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 57.56%;
+right: 41.64%;
+top: 78.88%;
+bottom: 13.87%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.42%;
+right: 49.31%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 52.58%;
+right: 47.15%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.23%;
+right: 43.5%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 79.96%;
+bottom: 19.56%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 79.96%;
+bottom: 19.56%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 84.89%;
+bottom: 14.63%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.82%;
+right: 41.91%;
+top: 84.89%;
+bottom: 14.63%;
+
+background: #793436;
+
+
+/* Group */
+
+position: absolute;
+left: 50.03%;
+right: 48.31%;
+top: 83.15%;
+bottom: 15.4%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.03%;
+right: 48.31%;
+top: 83.15%;
+bottom: 15.4%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.19%;
+right: 48.15%;
+top: 78.94%;
+bottom: 19.6%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.19%;
+right: 48.15%;
+top: 78.94%;
+bottom: 19.6%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 56.35%;
+right: 41.99%;
+top: 82.64%;
+bottom: 15.91%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.35%;
+right: 41.99%;
+top: 82.64%;
+bottom: 15.91%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 54.48%;
+right: 43.86%;
+top: 84.92%;
+bottom: 13.83%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.48%;
+right: 43.86%;
+top: 84.92%;
+bottom: 13.83%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 50.54%;
+right: 45.31%;
+top: 84.41%;
+bottom: 14.6%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.54%;
+right: 45.31%;
+top: 84.41%;
+bottom: 14.6%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 55.67%;
+right: 41.61%;
+top: 80.69%;
+bottom: 18.32%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 55.67%;
+right: 41.61%;
+top: 80.69%;
+bottom: 18.32%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 51.82%;
+right: 45.46%;
+top: 80.3%;
+bottom: 18.7%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.82%;
+right: 45.46%;
+top: 80.3%;
+bottom: 18.7%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 54.24%;
+right: 42.59%;
+top: 79.02%;
+bottom: 19.74%;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 54.24%;
+right: 42.59%;
+top: 79.02%;
+bottom: 19.74%;
+
+background: #FF9F6C;
+
+
+/* Group */
+
+position: absolute;
+left: 48.72%;
+right: 48.08%;
+top: 80.31%;
+bottom: 14.29%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 48.91%;
+right: 48.07%;
+top: 80.31%;
+bottom: 14.66%;
+
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 48.91%;
+right: 48.07%;
+top: 80.33%;
+bottom: 14.66%;
+
+transform: rotate(4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 48.91%;
+right: 48.07%;
+top: 80.33%;
+bottom: 14.66%;
+
+background: #FF9F82;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 49.81%;
+right: 49.31%;
+top: 81.06%;
+bottom: 18.25%;
+
+transform: rotate(4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.81%;
+right: 49.31%;
+top: 81.06%;
+bottom: 18.25%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 51.02%;
+right: 48.28%;
+top: 82.25%;
+bottom: 17.31%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 51.02%;
+right: 48.28%;
+top: 82.25%;
+bottom: 17.31%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.97%;
+right: 48.42%;
+top: 83.19%;
+bottom: 16.38%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.97%;
+right: 48.42%;
+top: 83.19%;
+bottom: 16.38%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.85%;
+right: 48.73%;
+top: 84.04%;
+bottom: 15.57%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.85%;
+right: 48.73%;
+top: 84.04%;
+bottom: 15.57%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.37%;
+right: 49.43%;
+top: 80.63%;
+bottom: 19.06%;
+
+transform: rotate(4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 50.37%;
+right: 49.43%;
+top: 80.63%;
+bottom: 19.06%;
+
+background: #FF9F82;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 50.3%;
+right: 49.35%;
+top: 80.49%;
+bottom: 18.94%;
+
+transform: rotate(4deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 50.3%;
+right: 49.35%;
+top: 80.49%;
+bottom: 18.94%;
+
+background: #FB744F;
+transform: rotate(4deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.43%;
+right: 34.61%;
+top: 80.34%;
+bottom: 13.73%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 58.43%;
+right: 34.75%;
+top: 80.97%;
+bottom: 13.72%;
+
+transform: rotate(-2.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58.43%;
+right: 34.75%;
+top: 80.97%;
+bottom: 13.72%;
+
+transform: rotate(-2.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.43%;
+right: 34.75%;
+top: 80.97%;
+bottom: 13.72%;
+
+background: #FF9F82;
+transform: rotate(-2.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.59%;
+right: 40.03%;
+top: 79.88%;
+bottom: 14.41%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 56.59%;
+right: 40.39%;
+top: 80.63%;
+bottom: 14.36%;
+
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.59%;
+right: 40.39%;
+top: 80.63%;
+bottom: 14.36%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 56.59%;
+right: 40.39%;
+top: 80.63%;
+bottom: 14.36%;
+
+background: #FF9F82;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.84%;
+right: 41.28%;
+top: 80.94%;
+bottom: 18.37%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.84%;
+right: 41.28%;
+top: 80.94%;
+bottom: 18.37%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 56.85%;
+right: 42.44%;
+top: 82.23%;
+bottom: 17.33%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 56.85%;
+right: 42.44%;
+top: 82.23%;
+bottom: 17.33%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.04%;
+right: 42.36%;
+top: 83.14%;
+bottom: 16.43%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.04%;
+right: 42.36%;
+top: 83.14%;
+bottom: 16.43%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.37%;
+right: 42.21%;
+top: 83.92%;
+bottom: 15.68%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 57.37%;
+right: 42.21%;
+top: 83.92%;
+bottom: 15.68%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 57.94%;
+right: 41.86%;
+top: 80.41%;
+bottom: 19.28%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.94%;
+right: 41.86%;
+top: 80.41%;
+bottom: 19.28%;
+
+background: #FF9F82;
+transform: rotate(-7.99deg);
+
+
+/* Group */
+
+position: absolute;
+left: 58%;
+right: 41.79%;
+top: 80.29%;
+bottom: 19.19%;
+
+transform: rotate(-7.99deg);
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+left: 58%;
+right: 41.79%;
+top: 80.29%;
+bottom: 19.19%;
+
+background: #FB744F;
+transform: rotate(-7.99deg);
