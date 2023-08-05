@@ -7,7 +7,7 @@ import { users } from "../../../utils/Data"
 import { useNavigation } from "@react-navigation/native";
 
 export function Login() {
-    const [eye, setEye] = useState(false)
+    const [eye, setEye] = useState(true)
     const [email, setEmail] = useState('')
     const [pass, setPass] = useState('')
     const [disable, setDisable] = useState(true)
@@ -42,7 +42,9 @@ export function Login() {
     }
 
     function singup() {
-        console.log("redirect");
+        navigation.navigate("SignUp",{
+            screen: "SignUp"
+        })
     }
 
     return (

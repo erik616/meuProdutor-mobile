@@ -32,10 +32,10 @@ export function Input({ placeholder, type, handlePress, security, value, handleV
                     style={styles.icon}
                     onPress={handlePress}
                 >
-                    {security === true ?
-                        <Ionicons name="eye" size={26} />
-                        :
+                    {security === false ?
                         <Ionicons name="eye-off" size={26} />
+                        :
+                        <Ionicons name="eye" size={26} />
                     }
                 </TouchableOpacity>
             }
