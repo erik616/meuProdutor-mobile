@@ -1,14 +1,19 @@
 import React, { useState, useEffect } from 'react';
-import { View, StyleSheet, Text, FlatList, SafeAreaView, Image } from 'react-native';
+import { View, StyleSheet, Text } from 'react-native';
 import { InputSearch } from '../../Components/Form/InputSearch';
 
 import { data } from '../../../utils/Data';
 import { Products } from '../../Components/Products';
+import { Button } from '../../Components/Form/Button';
+import { useNavigation } from '@react-navigation/native';
+
 
 type Products = []
 
-export function Home() {
+export function Home({ route }) {
     const [products, SetProductsData] = useState<Products>([])
+    const navigation = useNavigation()
+    const { id } = route.params
 
     useEffect(() => {
 
@@ -26,6 +31,13 @@ export function Home() {
         getProducts()
     }, [])
 
+    function editProfile() {
+        navigation.navigate('EditProfile', {
+            screen: 'EditProfile',
+            id: id
+        })
+    }
+
     return (
         <View style={styles.container}>
             <View style={styles.header}>
@@ -42,6 +54,13 @@ export function Home() {
             {/* <View style={styles.footer}>
                 <Text>Desenvolvido por: Erik e Anderson</Text>
             </View> */}
+
+            <Button
+                placeholder={"Meu perfil \u27A1\uFE0F"}
+                type="singup"
+                handlePress={editProfile}
+                disable={false}
+            />
         </View>
     )
 }

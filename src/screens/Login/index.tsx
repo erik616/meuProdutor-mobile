@@ -27,8 +27,8 @@ export function Login() {
             const res = users
             console.log(res);
             const user = res.find(el => el.email === email)
-            if(user){
-                if(user.pass === pass){
+            if (user) {
+                if (user.pass === pass) {
                     navigation.navigate('Home', {
                         screen: 'Home'
                     })
@@ -42,7 +42,7 @@ export function Login() {
     }
 
     function singup() {
-        navigation.navigate("SignUp",{
+        navigation.navigate("SignUp", {
             screen: "SignUp"
         })
     }
@@ -55,13 +55,17 @@ export function Login() {
                     style={styles.login}
                 >
                     <Input
+                        editable
+                        keyboard={'email-address'}
                         placeholder="Digite seu email"
                         type={"email"}
-                        security={eye}
+                        security={false}
                         value={email}
                         handleValue={(e: string) => setEmail(e.toString())}
                     />
                     <Input
+                        editable
+                        keyboard={'default'}
                         placeholder="Insira sua senha"
                         type={"senha"}
                         handlePress={() => setEye(!eye)}

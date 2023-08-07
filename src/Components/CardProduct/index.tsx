@@ -2,6 +2,8 @@ import React from 'react';
 import { View, StyleSheet, Image, TouchableOpacity, Text } from "react-native"
 import { Ionicons } from "@expo/vector-icons"
 
+import { useNavigation } from '@react-navigation/native';
+
 interface Product {
     id: number,
     nome: string,
@@ -22,6 +24,9 @@ interface ProductsProps {
 }
 
 export function CardProduct({ data }: ProductsProps) {
+    const navigation = useNavigation()
+    const id = data.id
+
     return (
         <View style={styles.container}>
             <View style={styles.imagemContainer}>
@@ -32,6 +37,7 @@ export function CardProduct({ data }: ProductsProps) {
                     style={styles.imagem}
                 />
             </View>
+
             <View style={styles.info}>
                 <Text style={styles.productName}>{data.nome}</Text>
                 <Text style={styles.productVol}>{data.volume} {data.unidadedemedida}</Text>
@@ -40,6 +46,12 @@ export function CardProduct({ data }: ProductsProps) {
                 <TouchableOpacity
                     style={styles.button}
                     activeOpacity={0.8}
+                    onPress={() => 
+                        navigation.navigate('ProductPage', {
+                            Screen: 'ProductPage',
+                            id: id,
+                        })
+                    }
                 >
                     <Ionicons name='basket-sharp' size={30} color="#fff" />
                 </TouchableOpacity>

@@ -4,14 +4,25 @@ import { Ionicons } from "@expo/vector-icons"
 
 interface Props {
     placeholder: string;
-    type: 'email' | "senha";
+    type: 'email' | "senha" | "text";
     handlePress?(): void;
     security: boolean;
     value: string;
     handleValue(e: string): void;
+    keyboard: any;
+    editable: boolean;
 }
 
-export function Input({ placeholder, type, handlePress, security, value, handleValue }: Props) {
+export function Input({
+    placeholder,
+    type,
+    handlePress,
+    security,
+    value,
+    handleValue,
+    editable,
+    keyboard
+}: Props) {
     return (
         <View
             style={[
@@ -25,6 +36,8 @@ export function Input({ placeholder, type, handlePress, security, value, handleV
                 secureTextEntry={security}
                 value={value}
                 onChangeText={handleValue}
+                keyboardType={keyboard}
+                editable={editable}
             />
 
             {type === "senha" &&
@@ -33,9 +46,9 @@ export function Input({ placeholder, type, handlePress, security, value, handleV
                     onPress={handlePress}
                 >
                     {security === false ?
-                        <Ionicons name="eye-off" size={26} />
+                        <Ionicons name="eye-off" color="rgba(38, 160, 58, 0.5)" size={26} />
                         :
-                        <Ionicons name="eye" size={26} />
+                        <Ionicons name="eye" color="rgba(38, 160, 58, 0.5)" size={26} />
                     }
                 </TouchableOpacity>
             }
